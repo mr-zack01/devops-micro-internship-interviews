@@ -1,1 +1,1 @@
-print("Safety checks passed")
+print("PR safety test file")
